@@ -35,6 +35,9 @@
 ### 3.1. 워크플로우 개요
 * **워크플로우 설명:** 
   구글 폼 제출 → 구글 시트 저장 → Discord 알림 전송
+   ** 구성도 **
+<img width="606" height="721" alt="image" src="https://github.com/user-attachments/assets/0d2f3f25-bcb7-4e5b-b453-2e78e04041e7" />
+
 
 ### 3.2. 도구 A (Make) 구현 결과
 * **사용한 도구:** Make
