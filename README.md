@@ -67,6 +67,7 @@
   [여기에 정상 경로(전송완료) 및 오류 경로(이메일오류) 실행 로그 스크린샷 첨부]
 
   <img width="739" height="709" alt="image" src="https://github.com/user-attachments/assets/214c1212-e6fb-4977-84f5-815febec8a70" />
+    <img width="373" height="624" alt="image" src="https://github.com/user-attachments/assets/79b283d0-94cf-4b7d-bffd-d347c2741b0b" />
 
 
 ### 3.3. 도구 B 구현 결과
